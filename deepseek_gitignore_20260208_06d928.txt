@@ -1,0 +1,28 @@
+# ملفات البيئة
+.env
+.env.local
+.env.development
+.env.production
+
+# Expo
+.expo/
+.expo-shared/
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# نظام التشغيل
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Build
+dist/
+build/
+*.apk
+*.aab
+*.ipa
